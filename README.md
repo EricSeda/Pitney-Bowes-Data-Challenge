@@ -1,0 +1,2 @@
+# Pitney-Bowes-Data-Challenge
+As a leader in the Mailing Meters Space Pitney Bowes' clients rely on their meters to function and meet their customer's needs. Pitney Bowes uses predictive maintenance to reduce the risk of downtimes of their meters currently deployed. All of their meters are cloud-connected, which allows Pitney Bowes to monitor the health of a device. For this challenge, we were asked to build a model that can predict which meters will fail within the next seven days.
